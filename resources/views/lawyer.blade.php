@@ -27,7 +27,6 @@
     <div class="container btn-grid-container">
         <div class="btn-grid">
         <a href="{{ route('add_case') }}" class="btn btn-outline-primary">إضافة قضية</a>
-
             <button class="btn btn-outline-secondary">تصفح القضايا</button>
             <button class="btn btn-outline-success">إضافة موكل</button>
             <button class="btn btn-outline-danger">تصفح الموكلين</button>
